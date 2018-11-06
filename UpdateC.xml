@@ -3,14 +3,14 @@
 <ROOT>The Freezer Project
 <Updatelist>
 <Programname>The Freezer Project</Programname>
-<Releasetime>20181028</Releasetime>
+<Releasetime>20181107</Releasetime>
 <Author>Freddy Liu</Author>
-<version>1001</version>
+<version>1002</version>
 <!-- Progrm version and realsese date,1000 means 1.0.0.0, realeasetime,20181028 means 2018.10.28 -->
-<md5>wad</md5>
+<md5></md5>
 <SHA256></SHA256>
 <boolbeta>NO</boolbeta>
 <boolalpha>YES</boolalpha>
-<link>Project/download/TheFreezer.exe</link><!--  put the newest version's link of the program in here -->
+<link>Project/download/TheFreezer1002.exe</link><!--  put the newest version's link of the program in here -->
 </Updatelist>
 </ROOT>
